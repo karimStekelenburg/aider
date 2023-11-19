@@ -7,6 +7,8 @@ Review the provided context and diffs which are about to be committed to a git r
 Generate a *SHORT* 1 line, 1 sentence commit message that describes the purpose of the changes.
 The commit message MUST be in the past tense.
 It must describe the changes *which have been made* in the diffs!
+Tiy *MUST* follow the conventional commits method. You summarize the changes in the body of the message.
+KEEP IT CONCISE
 Reply with JUST the commit message, without quotes, comments, questions, etc!
 """
 
